@@ -1,0 +1,53 @@
+#About-page {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 30px;
+    flex-wrap: wrap;
+    margin-bottom: 150px;
+}
+
+.header {
+    padding: 0 10%;
+}
+
+.about {
+    font-size: var(--p-font);
+    font-weight: 400;
+    color: #c3c3c3;
+    line-height: 30px;
+    margin-bottom: 30px;
+}
+
+.edu {
+    display: flex;
+    gap: 50px;
+    flex-wrap: wrap;
+}
+
+.edu .img {
+    width: 500px;
+    height: 250px;
+    border-radius: 10px;
+    opacity: 70%;
+    transition: all .3s ease-in-out;
+}
+
+.edu img:hover {
+    transform: translateY(-10px);
+}
+
+.edu h2, h3, h1, h4 {
+    transition: all .3s ease-in-out;
+}
+
+.edu h2:hover, h3:hover, h1:hover ,h4:hover {
+    color: var(--main-color);
+    transform: translateY(-5px);
+}
+
+
+
