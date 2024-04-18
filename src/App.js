@@ -32,7 +32,7 @@ function App() {
   return (
     <div className="App">
       <video autoPlay loop muted id="myVideo">
-        <source src="/Video/production_id_4990317 (1080p).mp4" type="video/mp4" />
+        <source src="../Video/production_id_4990317 (1080p).mp4" type="video/mp4" />
       </video> 
       <Header/>
       <Section/>
