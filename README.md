@@ -1,3 +1,6 @@
-##You can see the live model of my Portfolio in the below link##
+## Portfolio
 
-https://shadow-aakash12.github.io/Portfolio/
+You can view the live model of my portfolio by clicking on the link below:
+
+[Live Portfolio](https://shadow-aakash12.github.io/Portfolio/)
+
