@@ -35,6 +35,10 @@
   width: 100%;
 }
 
+.btn .btn--previous {
+  transform: rotate(180deg);
+}
+
 
 
 /* // =========================
